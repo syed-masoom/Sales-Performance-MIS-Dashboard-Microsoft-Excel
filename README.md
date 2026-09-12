@@ -174,28 +174,9 @@ The data preparation process includes:
 
 ---
 
-## 📁 Project Files
-
-* 📊 **Excel Dashboard** — Interactive MIS dashboard
-* 📄 **Raw Data** — Source dataset
-* 🔄 **Power Query** — Data cleaning and transformation
-* 📸 **Dashboard Screenshot** — Dashboard preview
-
----
-
-
-
-
-
-
-
-
-
 These functions were used to support calculations, KPI development, reporting logic, and analytical requirements.
 
 ---
-
-
 
 # 📈 Sales Analysis
 
@@ -271,86 +252,6 @@ The dashboard provides management-level KPIs for quickly understanding business 
 
 ---
 
-# 📊 Interactive Excel Dashboard
-
-The project includes interactive Excel dashboards designed for management reporting and business performance monitoring.
-
-The dashboards use:
-
-* KPI Cards
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Timelines
-* Dynamic Charts
-* Conditional Formatting
-* Interactive Filters
-
-Users can interact with the dashboard to explore different aspects of sales performance and identify trends and performance differences.
-
----
-
-# 🔍 Business Analysis Approach
-
-The analysis goes beyond simply presenting numbers.
-
-The project follows a four-step business analysis approach:
-
-```text
-What happened?
-      ↓
-Why did it happen?
-      ↓
-What does it mean?
-      ↓
-What should the business do?
-```
-
-This approach helps transform Excel reporting into meaningful business analysis.
-
-For example, instead of only reporting that one region generated lower sales, the analysis can be used to investigate:
-
-* Product performance
-* Category contribution
-* Customer behavior
-* Sales trends
-* Profitability
-* Regional differences
-
-This helps management move from **reporting numbers to understanding business performance**.
-
----
-
-# 💡 Business Insights
-
-The analysis is designed to identify insights related to:
-
-### Sales Performance
-
-Identify periods of high and low sales and understand overall sales trends.
-
-### Product Performance
-
-Identify products that contribute significantly to revenue and products that may require further investigation.
-
-### Profitability
-
-Compare revenue and profit to understand which products and categories are generating profitable growth.
-
-### Regional Performance
-
-Compare regions to identify high-performing and underperforming areas.
-
-### Product Mix
-
-Understand which categories and products contribute most significantly to overall business performance.
-
-### Growth Opportunities
-
-Identify areas where improvements in product strategy, sales performance, regional focus, or resource allocation may create business opportunities.
-
----
-
 # 🎯 Management Use Cases
 
 This Excel MIS can support management and business teams with:
@@ -366,101 +267,6 @@ This Excel MIS can support management and business teams with:
 * Decision support
 * Performance trend analysis
 
----
-
-# 📂 Repository Structure
-
-```text
-Excel_Sales_Analysis_Project/
-│
-├── 📊 Excel Dashboard Files
-│
-├── 🖼️ Dashboard Screenshots
-│
-├── 📄 README.md
-│
-└── 📁 Supporting Project Files
-```
-
-The repository contains Excel dashboard outputs and supporting project resources.
-
----
-
-# 🎓 Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-### Excel & MIS Reporting
-
-* Microsoft Excel
-* MIS Reporting
-* Management Reporting
-* KPI Reporting
-* Excel Dashboard Development
-* Report Automation
-
-### Data Preparation
-
-* Data Cleaning
-* Data Validation
-* Data Transformation
-* Data Formatting
-* Power Query
-
-### Data Analysis
-
-* Sales Analysis
-* Revenue Analysis
-* Profitability Analysis
-* Trend Analysis
-* Product Analysis
-* Category Analysis
-* Regional Analysis
-* KPI Development
-
-### Data Visualization
-
-* Pivot Charts
-* Interactive Charts
-* KPI Cards
-* Slicers
-* Timelines
-* Dashboard Design
-
-### Business Analysis
-
-* Performance Monitoring
-* Business Insights
-* Root-Cause Thinking
-* Data-Driven Decision Making
-* Business Recommendations
-
----
-
-# 🚀 What This Project Demonstrates
-
-This project demonstrates the ability to take a business dataset through the complete reporting and analysis lifecycle:
-
-```text
-Raw Data
-    ↓
-Clean & Validate
-    ↓
-Transform
-    ↓
-Analyze
-    ↓
-Calculate KPIs
-    ↓
-Build MIS Reports
-    ↓
-Create Dashboard
-    ↓
-Generate Insights
-    ↓
-Support Business Decisions
-```
-
 The project demonstrates that **Excel can be used not only for spreadsheet calculations, but also as a practical tool for data preparation, MIS reporting, business analysis, dashboard development, and decision support.**
 
 ---
@@ -470,29 +276,6 @@ The project demonstrates that **Excel can be used not only for spreadsheet calcu
 This project was developed as part of my **Data Analytics and MIS portfolio** to demonstrate practical experience in working with business data using Microsoft Excel and Power Query.
 
 It reflects my interest in transforming raw data into structured information and meaningful insights that can help businesses monitor performance and make better decisions.
-
----
-
-## ⭐ Skills at a Glance
-
-```text
-Microsoft Excel
-Power Query
-MIS Reporting
-Data Cleaning
-Data Transformation
-Data Validation
-Pivot Tables
-Pivot Charts
-KPI Development
-Dashboard Development
-Report Automation
-Sales Analysis
-Business Analysis
-Data Visualization
-```
-
----
 
 ## 📌 Portfolio Goal
 
