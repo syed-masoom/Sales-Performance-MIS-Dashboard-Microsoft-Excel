@@ -159,7 +159,7 @@ The data preparation process includes:
 
 ## 📊 Dashboard
 
-![Sales MIS Dashboard](./Dashboard/Sales_Dashboard.png)
+![Sales MIS Dashboard](https://github.com/syed-masoom/Sales-Performance-MIS-Dashboard-Microsoft-Excel/blob/main/4.%20Excel_dashboard.png?raw=true)
 
 *Interactive Excel dashboard for monitoring sales and business performance.*
 
