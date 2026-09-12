@@ -1,20 +1,8 @@
-# 📊 Sales Performance MIS & Analytics Dashboard — Microsoft Excel
+# 📊 Sales Performance MIS Dashboard — Microsoft Excel
 
-> **An end-to-end Excel-based MIS reporting and sales analytics project designed to transform raw business data into structured reports, interactive dashboards, actionable insights, and data-driven business recommendations.**
+An **Excel-based MIS and Sales Analytics project** designed to transform raw sales data into interactive management reports, KPIs, and business insights.
 
----
-
-## 📌 Project Overview
-
-This project demonstrates how **Microsoft Excel and Power Query** can be used to build a structured **Management Information System (MIS)** for monitoring and analyzing sales performance.
-
-The project follows a practical business reporting workflow, starting from **raw sales data**, followed by data cleaning and transformation, KPI development, analysis, dashboard creation, and business insight generation.
-
-The objective is not only to present sales numbers, but to understand **what is happening in the business, identify performance drivers, and provide useful information for management decision-making**.
-
----
-
-## 🎯 Business Objective
+## 🎯 Project Objective
 
 The objective of this project is to create an interactive sales MIS that helps management and business teams monitor key sales and profitability metrics and quickly identify performance trends and opportunities.
 
@@ -31,8 +19,6 @@ The analysis focuses on questions such as:
 * What is the overall profit margin?
 * Which products or categories contribute most to total revenue and profit?
 * Where are the key opportunities for improving sales and profitability?
-
----
 
 # 🔄 Project Workflow
 
@@ -62,9 +48,12 @@ Business Insights
 Recommendations
 ```
 
-This workflow demonstrates the process of converting **raw business data into management-ready information**.
+### 🎓 Tools & Skills Demonstration
 
----
+**Microsoft Excel:** Advanced Formulas | Pivot Tables | Pivot Charts | Slicers | KPI Cards | Conditional Formatting
+
+**Power Query:** Data Cleaning | Data Transformation | Data Validation | Data Preparation | Report Automation
+
 
 # 🛠️ Tools & Technologies
 
@@ -140,9 +129,7 @@ ROUNDUP
 TEXT
 ```
 
-These functions were used to support calculations, KPI development, reporting logic, and analytical requirements.
-
----
+This workflow demonstrates the process of converting **raw business data into management-ready information**.
 
 # 🧹 Data Preparation & Cleaning
 
@@ -163,6 +150,52 @@ The data preparation process includes:
 **Power Query** is used to make the transformation process more structured and refreshable.
 
 ---
+
+### 🔄 Workflow
+
+**Raw Data → Cleaning → Transformation → Analysis → KPI Development → MIS Dashboard → Business Insights**
+
+---
+
+## 📊 Dashboard
+
+![Sales MIS Dashboard](./Dashboard/Sales_Dashboard.png)
+
+*Interactive Excel dashboard for monitoring sales and business performance.*
+
+---
+
+## 💡 Key Insights
+
+* Identified sales and revenue trends across different periods.
+* Analyzed product, category, and regional performance.
+* Evaluated profitability and key business KPIs.
+* Identified top-performing and underperforming areas.
+
+---
+
+## 📁 Project Files
+
+* 📊 **Excel Dashboard** — Interactive MIS dashboard
+* 📄 **Raw Data** — Source dataset
+* 🔄 **Power Query** — Data cleaning and transformation
+* 📸 **Dashboard Screenshot** — Dashboard preview
+
+---
+
+
+
+
+
+
+
+
+
+These functions were used to support calculations, KPI development, reporting logic, and analytical requirements.
+
+---
+
+
 
 # 📈 Sales Analysis
 
